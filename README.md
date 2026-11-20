@@ -1,10 +1,29 @@
-# Passive Graph–Temporal Multi-Task Smart-Grid Security — Core Sources
+# Passive Graph–Temporal Multi-Task Detection and Localization of Coordinated Cyber–Physical Attacks in Smart Grids
 
-This repository contains a **limited release of the core neural-network source
-and MATLAB dataset-generation scripts** related to the research manuscript:
+**Authors:** Reem Alamri, Ohoud AlZamzami, Kawthar Moria  
+**Manuscript:** Submitted to *Sensors* (MDPI), 2026; not yet published.  
+**Repository scope:** Core PyTorch model source and MATLAB dataset-generation source (partial release).
 
-*Passive Graph–Temporal Multi-Task Detection and Localization of Coordinated
-Cyber–Physical Attacks in Smart Grids* (submitted to *Sensors*).
+## Manuscript reference
+
+Alamri, R.; AlZamzami, O.; Moria, K. *Passive Graph–Temporal Multi-Task Detection and Localization of Coordinated Cyber–Physical Attacks in Smart Grids.* Manuscript submitted to *Sensors*, 2026.
+
+> This is a **pre-publication manuscript reference**, not a citation to a published article. No journal volume, pages, or DOI have been assigned in this repository. Please update this reference if the paper is published.
+
+### BibTeX (pre-publication)
+
+```bibtex
+@unpublished{Alamri2026PassiveGraphTemporal,
+  author = {Alamri, Reem and AlZamzami, Ohoud and Moria, Kawthar},
+  title  = {Passive Graph--Temporal Multi-Task Detection and Localization of Coordinated Cyber--Physical Attacks in Smart Grids},
+  year   = {2026},
+  note   = {Manuscript submitted to Sensors (MDPI)}
+}
+```
+
+## About this repository
+
+This repository contains a **limited release of the core neural-network source and MATLAB dataset-generation scripts** associated with the above manuscript.
 
 The study considers five-class Attack-Type Detection and multi-label Cyber Bus
 and Physical Line Localization for the synthetic DC IEEE-14, IEEE-118 and
